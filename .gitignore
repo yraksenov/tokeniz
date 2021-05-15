@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Task
+*.db
+*.log
+target/
+bin/
